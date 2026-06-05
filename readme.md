@@ -170,7 +170,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Mari Barbosa**
 
-- GitHub: [@maribarbosa](https://github.com/maribarbosa)
+- GitHub: [@maribarbosa](https://github.com/mari-barbosa)
 
 ## 🙏 Acknowledgements
 
